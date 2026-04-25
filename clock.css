@@ -1,0 +1,64 @@
+@import url('https://fonts.cdnfonts.com/css/digital-numbers');
+/* digital clock styling  */
+.digital-clock{
+    display:block;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 55px;
+    font-family: 'Rajdhani', sans-serif;
+    width: 297px;
+    position:fixed;
+    top:930px;
+    left:1600px;
+  
+    
+    border:0.4rem solid #ffff00;
+}
+/* am-pm styling */
+#am-pm{
+    background-color: #fa0202;
+    font-size: 1.5rem;
+}
+
+/* clock details styling */
+.clock-details{
+    font-size: 23px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-align:center;
+    color: rgb(241, 239, 239);
+    background-color: #001c63;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .digital-clock {
+    display: block;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .digital-clock {
+    display: block;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .digital-clock {
+    display: block;
+  }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .digital-clock {
+    display: block;
+  }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .digital-clock {
+    display: block;
+  }
+}
