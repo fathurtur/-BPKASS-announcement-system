@@ -5,7 +5,7 @@ audio controls, real-time, server-side.
 Download All File 
 click audio.html as a index file running on website like Chrome, Mozilla, or Edge.
 
-to change audio format is like more than upload your file audio is make it audio first an change "src=/yourfile" an audio describe structure.
+to change audio format is like more than upload your file audio is make it audio first an change "src=/yourfile" an audio describe file structure.
 
 _Last updated: 25 Apr 2026_
 
