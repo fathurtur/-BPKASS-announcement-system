@@ -1,9 +1,9 @@
 # [BPKASS] announcement-system
 
-audio controls, real-time, server-side.
+audio controls(), buffercontrol, real-time, server-side.
 
-Download All File 
-click audio.html as a index file running on website like Chrome, Mozilla, or Edge.
+Download All ZIP , crete new folder, extract 
+click audio.html as a index file running on offline website like Chrome, Mozilla, or Edge.
 
 to change audio format is like more than upload your file audio is make it audio first an change "src=/yourfile" an audio describe file structure.
 
