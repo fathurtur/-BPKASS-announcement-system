@@ -1,11 +1,10 @@
 # [BPKASS] announcement-system
+--audio controller , timer , server-side. For announcement train or flight inconfiguration like offline landing-page third party project.
 
-audio controls(), buffercontrol, real-time, server-side.
+Download All ZIP , crete new folder(directory), then extract !=
+click audio.html as a [index] file running on offline website like Chrome, Mozilla, or Edge.
 
-Download All ZIP , crete new folder, extract 
-click audio.html as a index file running on offline website like Chrome, Mozilla, or Edge.
-
-to change audio format is like more than upload your file audio is make it audio first an change "src=/yourfile" an audio describe file structure.
+to change audio format is like more than upload your file audio is make it audio first, and change "src=/yourfile" an audio describe file structure.
 
 _Last updated: 25 Apr 2026_
 
