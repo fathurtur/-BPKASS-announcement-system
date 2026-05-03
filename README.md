@@ -1,5 +1,5 @@
 # [BPKASS] announcement-system
---audio controller , timer , server-side. For announcement train or flight inconfiguration like offline landing-page third party project.
+--audio controller , timer , server-side. For announcement train inconfiguration like offline landing-page third party project.
 
 Download All ZIP , crete new folder(directory), then extract !=
 click audio.html as a [index] file running on offline website like Chrome, Mozilla, or Edge.
